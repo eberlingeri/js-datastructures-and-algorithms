@@ -8,3 +8,4 @@ console.log(instructor.hasOwnProperty('firstName'))
 
 // Arrays
 let names = ['Yoshi', 'Mario', 'Peash']
+// New comment
